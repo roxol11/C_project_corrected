@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quiz", "Quiz\Quiz.csproj", "{69C412B0-A762-4055-AB22-595C98DBD48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{90E99E64-5700-4C00-9247-153873B6F5E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69C412B0-A762-4055-AB22-595C98DBD48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C412B0-A762-4055-AB22-595C98DBD48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C412B0-A762-4055-AB22-595C98DBD48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C412B0-A762-4055-AB22-595C98DBD48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E99E64-5700-4C00-9247-153873B6F5E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E99E64-5700-4C00-9247-153873B6F5E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E99E64-5700-4C00-9247-153873B6F5E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E99E64-5700-4C00-9247-153873B6F5E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29953F24-E295-4435-9F4C-D0DB47D46C9A}
+	EndGlobalSection
+EndGlobal
